@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But include these specific files
+!app.py
+!model.py
+!model.pkl
+!tfidf.pkl
+!requirements.txt
+!README.md
+!.gitignore
